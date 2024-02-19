@@ -4,11 +4,10 @@
   "workspaceFolder": "/workspace",
   "dockerComposeFile": "../../docker-compose.yml",
   "customizations": {
-    "vscode":{
-      "extensions":[
-        "firsttris.vscode-jest-runner"
-
-      ]
-    }
+      "vscode":{
+          "extensions":[
+              "firsttris.vscode-jest-runner"
+          ]
+      }
   }
 }
